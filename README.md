@@ -1,9 +1,7 @@
 # How-To-use-tcpdump-with-Linux
 
-#### Using tcpdump on Ubuntu
-
 ## Intro
-The `tcpdump` utility exists on Ubuntu by default, though we will confirm your setup below.
+The `tcpdump` utility exists on `Ubuntu` and `kali` by default, though we will confirm your setup below.
 
 *Note: Try to use a modern version of `tcpdump` so you get the new `--print` parameter which allows you to see the packets in realtime even while writing (`-w`) to file.*
 
